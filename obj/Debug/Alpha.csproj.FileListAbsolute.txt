@@ -1,0 +1,7 @@
+C:\Users\felix\source\repos\Alpha\obj\Debug\Alpha.csprojAssemblyReference.cache
+C:\Users\felix\source\repos\Alpha\obj\Debug\Alpha.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\Alpha\bin\Debug\Alpha.exe.config
+C:\Users\felix\source\repos\Alpha\bin\Debug\Alpha.exe
+C:\Users\felix\source\repos\Alpha\bin\Debug\Alpha.pdb
+C:\Users\felix\source\repos\Alpha\obj\Debug\Alpha.exe
+C:\Users\felix\source\repos\Alpha\obj\Debug\Alpha.pdb
